@@ -18,6 +18,7 @@ This repository contains the complete LaTeX source code for the paper "Quantum M
 ## 相关链接 (Links)
 
 - Figshare: https://doi.org/10.6084/m9.figshare.31830907
+- https://zenodo.org/records/19740201
 
 ## 编译方法 (Compilation)
 
